@@ -4,6 +4,7 @@
 The purpose of this analysis was to import a large dataset of Amazon Video Game reviews to clean, filter, and process via Spark and then write them to our SQL server which runs off of AWS. Additionally, we were to determine the effectiveness of the paid vs. unpaid reviews (Vine program) by finding the total reviews, amount of 5 star reviews, and percentage of 5-star reviews given the review's participation in the Vine program. 
 
 ## Results
+![Alt](https://github.com/jeremylam21/Amazon_Vine_Analysis/blob/4829cfe039cce5ed30d91be9db32918a8b555248/answers.png)
 
 As seen in above screenshot:
 * There are 40,471 non-Vine reviews and 94 Vine reviews
